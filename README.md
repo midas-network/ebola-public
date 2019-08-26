@@ -10,7 +10,7 @@ In addition to this public repository, we also created a private Github reposito
 The Ebola interest group has also created a [Slack channel](https://join.slack.com/t/ebolamcg/shared_invite/enQtNzIwMDM1OTIwMDgxLTg4ZDEwMDA0MDAxODE2NTdmZmQxMmM5MDMyNmY3YzI2NDUwNDhhM2M1YWYyMjU3MDY3ZDE1ZjkzZGFmMzg5NDg) that is open for any interested scientists or practitioner: 
 
 ## Wiki
-We will use the Wiki of this repository to post project updates and announcements, including information about the monthly video calls. 
+We will use the [Wiki](https://github.com/midas-network/ebola-public/wiki) of this repository to post project updates and announcements, including information about the monthly video calls. 
 
 ## Coordination
 The Ebola Interest Group is coordinated by Dr. Caitlin Rivers at the Johns Hopkins Center for Health Security (crivers6@jhu.edu), Dr. Simon Polett at the Walter Reed Army Institute of Research (simon.d.pollett.ctr@mail.mil), Dr. Cécile Viboud at the NIH Fogarty International Center (viboudc@mail.nih.gov), and Dr. Wilbert van Panhuis at the University of Pittsburgh and MIDAS Coordination Center (wgvanpanhuis@gmail.com). 
