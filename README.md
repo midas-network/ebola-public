@@ -14,7 +14,7 @@ This repository will be used by the Ebola Interest Group to share relevant infor
 5. Identify and share relevant publicly-available resources like datasets (e.g case count data, mobility data, demographic data, vaccine coverage).
 
 ## Public and private repositories
-In addition to this public repository, we also created a private Github repository for Ebola-related modeling research that can be used by members to share information internally within the group only. To get access to the private repository, please contact one of the coordinators or email questions@midasnetwork.us. 
+In addition to this public repository, we also created a [private Github repository](https://github.com/midas-network/ebola-private/blob/master/README.md) for Ebola-related modeling research that can be used by members to share information internally within the group only. To get access to the private repository, please contact one of the coordinators or email questions@midasnetwork.us. 
 
 ## Slack channel
 The Ebola interest group has also created a [Slack channel](https://join.slack.com/t/ebolamcg/shared_invite/enQtNzIwMDM1OTIwMDgxLTg4ZDEwMDA0MDAxODE2NTdmZmQxMmM5MDMyNmY3YzI2NDUwNDhhM2M1YWYyMjU3MDY3ZDE1ZjkzZGFmMzg5NDg) that is open for any interested scientists or practitioner: 
