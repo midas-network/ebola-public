@@ -7,10 +7,10 @@
 
 
 ## Ebola-related datasets
-We have listed links to relevant Ebola-related datasets on this wiki page. 
+We have listed links to relevant Ebola-related datasets on this wiki page. Non-public data will be added to a [private Github repository](https://github.com/midas-network/ebola-private/blob/master/README.md)
 
 ## Ebola-related papers
-We have listed links to relevant Ebola-related papers on this wiki page.
+We have listed links to relevant Ebola-related papers on this wiki page. Non-public research findings will be added to a [private Github repository](https://github.com/midas-network/ebola-private/blob/master/README.md)
 
 ## Context
 The ongoing Ebola virus outbreak in the Democratic Republic of Congo was recently declared a Public Health Emergency of International Concern by the World Health Organization, underscoring the complex and challenging nature of the outbreak. During past outbreaks of Ebola and Zika, modeling coordination calls helped both modelers and public health partners to improve the utility of modeling and analytics in supporting public health decision making. The purpose of this meeting series is to resume those modeling coordination calls to support the DRC response. 
