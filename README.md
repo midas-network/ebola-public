@@ -1,6 +1,6 @@
 # Public Repository for the MIDAS Network Ebola Interest Group
 
-# Context
+## Context
 The ongoing Ebola virus outbreak in the Democratic Republic of Congo was recently declared a Public Health Emergency of International Concern by the World Health Organization, underscoring the complex and challenging nature of the outbreak. During past outbreaks of Ebola and Zika, modeling coordination calls helped both modelers and public health partners to improve the utility of modeling and analytics in supporting public health decision making. The purpose of this meeting series is to resume those modeling coordination calls to support the DRC response. 
 
 ## About
