@@ -4,7 +4,11 @@
 
 
 ## Updates
-
+Is there interest in a forecasting challenge, or a formal model comparison, in the context of the on-going Ebola outbreak in DRC? While there has been a prior Ebola forecasting challenge mirrored after the 2014-2016 outbreak in West Africa, which some of you have participated in, it was conducted after the end of the outbreak rather than in real-time. Further, the on-going DRC outbreak is unique in that it involves a substantial vaccine response, while at the same time interventions are perturbed by violence and civil unrest. Questions of interest for a new challenge/model comparison in the context of DRC could include:
+predictions of regional incidences, informed by strength of interventions and proxies for violence (some indicators of civil unrest in DRC are available) 
+comparison of probabilities of spatial diffusion/risk maps
+evaluation of the impact of interventions  
+Would some of you already working on this outbreak have the bandwidth to run additional estimates/predictions for a multi-model comparison? If there is any interest in taking this further, or comments, please reach out to one of the [coordinators](https://github.com/midas-network/ebola-public). One would have to agree on common datasets, targets, and timeline. The implementation science modeling coordination group & NIH could offer some support for data compilation and coordination. If there was interest, one or more workshops could be organized once the challenge is underway to share results and identify data and modeling gaps for future outbreaks.
 
 ## Ebola-related datasets
 We have listed links to relevant Ebola-related datasets on this wiki page. Non-public data will be added to a [private Github repository](https://github.com/midas-network/ebola-private/blob/master/README.md). To get access to the private repository, please contact one of the coordinators or email questions@midasnetwork.us. 
