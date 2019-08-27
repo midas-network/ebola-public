@@ -1,7 +1,7 @@
 # Public Repository for the MIDAS Network Ebola Interest Group
 
 ## Upcoming conference call
-
+Our next Ebola Modeling Coordination Group conference call is tentatively scheduled for September 11 at 11:00am ET. Find details [here](https://github.com/midas-network/ebola-public/wiki/Conference-call-September-11).
 
 ## Updates
 Is there interest in a forecasting challenge, or a formal model comparison, in the context of the on-going Ebola outbreak in DRC? While there has been a prior Ebola forecasting challenge mirrored after the 2014-2016 outbreak in West Africa, which some of you have participated in, it was conducted after the end of the outbreak rather than in real-time. Further, the on-going DRC outbreak is unique in that it involves a substantial vaccine response, while at the same time interventions are perturbed by violence and civil unrest. Questions of interest for a new challenge/model comparison in the context of DRC could include:
