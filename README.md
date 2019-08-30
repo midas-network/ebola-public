@@ -4,6 +4,11 @@
 Our next Ebola Modeling Coordination Group conference call is tentatively scheduled for September 11 at 11:00am ET. Find details [here](https://github.com/midas-network/ebola-public/wiki/Conference-call-September-11).
 
 ## Updates
+
+**Ebola data curation**  
+The MIDAS Coordination Center is working with [Dr. Bryan Lewis](https://biocomplexity.virginia.edu/bryan-lewis) at the University of Virginia Biocomplexity Institute and Initiative to curate Ebola situation reports released by DRC authorities and WHO from PDF into csv files. Curated information will be posted in this repository when allowed by the source. If you are aware of ongoing data entry or curation efforts, let us know via questions@midasnetwork.us, or via an issue on this repository, to avoid duplication of work. If you are aware of useful data sources that should be curated, also let us know. 
+
+**Ebola forecasting challenge - assessing interest**  
 Is there interest in a forecasting challenge, or a formal model comparison, in the context of the on-going Ebola outbreak in DRC? While there has been a prior Ebola forecasting challenge mirrored after the 2014-2016 outbreak in West Africa, which some of you have participated in, it was conducted after the end of the outbreak rather than in real-time. Further, the on-going DRC outbreak is unique in that it involves a substantial vaccine response, while at the same time interventions are perturbed by violence and civil unrest. Questions of interest for a new challenge/model comparison in the context of DRC could include:
 predictions of regional incidences, informed by strength of interventions and proxies for violence (some indicators of civil unrest in DRC are available) 
 comparison of probabilities of spatial diffusion/risk maps
