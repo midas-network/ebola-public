@@ -5,6 +5,9 @@ Our next Ebola Modeling Coordination Group conference call is tentatively schedu
 
 ## Updates
 
+**NIAID's Ongoing Ebola Efforts (09-05-2019)**
+[NIAID's Ongoing Ebola Efforts in Congo, Elsewhere](https://www.niaid.nih.gov/grants-contracts/niaid-ongoing-ebola-efforts-congo-elsewhere?utm_campaign=+39669605&utm_content=&utm_medium=email&utm_source=govdelivery&utm_term=)
+
 **Ebola data curation**  
 The MIDAS Coordination Center is working with [Dr. Bryan Lewis](https://biocomplexity.virginia.edu/bryan-lewis) at the University of Virginia Biocomplexity Institute and Initiative to curate Ebola situation reports released by DRC authorities and WHO from PDF into csv files. Curated information will be posted in this repository when allowed by the source. If you are aware of ongoing data entry or curation efforts, let us know via questions@midasnetwork.us, or via an issue on this repository, to avoid duplication of work. If you are aware of useful data sources that should be curated, also let us know. 
 
