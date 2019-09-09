@@ -6,6 +6,7 @@ Our next Ebola Modeling Coordination Group conference call is tentatively schedu
 ## Updates
 
 **NIAID's Ongoing Ebola Efforts (09-05-2019)**
+
 [NIAID's Ongoing Ebola Efforts in Congo, Elsewhere](https://www.niaid.nih.gov/grants-contracts/niaid-ongoing-ebola-efforts-congo-elsewhere?utm_campaign=+39669605&utm_content=&utm_medium=email&utm_source=govdelivery&utm_term=)
 
 **Ebola data curation**  
