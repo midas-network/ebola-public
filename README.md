@@ -1,7 +1,7 @@
 # Public Repository for the MIDAS Network Ebola Interest Group
 
 ## Upcoming conference call
-Our next Ebola Modeling Coordination Group conference call is TBD. Find notes from previous calls[here](https://github.com/midas-network/ebola-public/tree/master/Calls).
+Our next Ebola Modeling Coordination Group conference call is TBD. Find notes from previous calls [here](https://github.com/midas-network/ebola-public/tree/master/Calls).
 
 ## Updates
 
