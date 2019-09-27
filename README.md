@@ -5,6 +5,10 @@ Our next Ebola Modeling Coordination Group conference call will be Wednesday, Oc
 
 ## Updates
 
+**OCHA Centre for Humanitarian Data: Fighting Rumors to Fight Ebola (09-27-2019)**
+
+"Misinformation, mistrust of outsiders and conspiracy theories have spread quickly across Ebola affected areas of DRC. In order to respond to community resistance and improve the response based on people’s concerns, an innovative community feedback system was launched by the IFRC. The IFRC understood from experience that Ebola provokes fear in communities due to the severity of the symptoms, misunderstanding of the causes, the high number of deaths and control measures that are often perceived as intrusive and interfering with local social, cultural and religious practices." Read more about this [here](https://centre.humdata.org/fighting-rumors-to-fight-ebola/?utm_medium=mailchimp&utm_content=newsletter).
+
 **NIAID's Ongoing Ebola Efforts (09-05-2019)**   
 NIAID has put together a summary of their current ebola efforts, including news from the Ebola Treatment Study, remote technical assistance in using the GeneXpert assay, and their current ongoing clinical trials. This information can be found here: [NIAID's Ongoing Ebola Efforts in Congo, Elsewhere](https://www.niaid.nih.gov/grants-contracts/niaid-ongoing-ebola-efforts-congo-elsewhere?utm_campaign=+39669605&utm_content=&utm_medium=email&utm_source=govdelivery&utm_term=)
 
