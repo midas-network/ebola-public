@@ -1,7 +1,7 @@
 # Public Repository for the MIDAS Network Ebola Interest Group
 
 ## Upcoming conference call
-Our next Ebola Modeling Coordination Group conference call will be in November. More details will follow. Find notes from previous calls [here](https://github.com/midas-network/ebola-public/tree/master/Calls).
+Our next Ebola Modeling Coordination Group conference call will be November 15, 2019 from 11AM - 12PM. Find notes from previous calls [here](https://github.com/midas-network/ebola-public/tree/master/Calls).
 
 ## Updates
 
